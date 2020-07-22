@@ -129,7 +129,7 @@ This plugin now includes both the GeoLite2-City and GeoLite2-ASN databases.  If 
   * The only acceptable values are `City` and `ASN`
 
 [id="plugins-{type}s-{plugin}-locale"]
-===== ``
+===== `locale`
 
   * Value type is <<string,string>>
   * Default value is `"en-US"`
